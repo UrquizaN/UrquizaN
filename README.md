@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 <div align=center> 
 <a href="https://github.com/UrquizaN">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrquizaN&hide=php&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&layout=compact" alt="UrquizaN most used technologies" />
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrquizaN&hide=php&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&layout=compact" alt="UrquizaN most used technologies" />
   </a>
   <a href="https://github.com/UrquizaN">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=UrquizaN&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&layout=compact" alt="UrquizaN Github stats" />
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=UrquizaN&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&layout=compact" alt="UrquizaN Github stats" />
   </a>
  <!-- ![Snake animation](https://github.com/UrquizaN/UrquizaN/blob/output/github-contribution-grid-snake.svg) -->
 </div>
