@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Urquiza Nóbrega, <b>Front End Developer 👨🏽‍💻</b></p> 
+<p>I'm Urquiza Nóbrega, <b>Software Engineer 👨🏽‍💻</b></p> 
 <p align=center>
   <a
     href="https://www.linkedin.com/in/urquiza-nobrega/" 
@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/UrquizaN">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrquizaN&hide=php&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&layout=compact" alt="UrquizaN most used technologies" />
   </a>
-  <a href="https://github.com/UrquizaN">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=UrquizaN&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&layout=compact" alt="UrquizaN Github stats" />
-  </a>
+  
  <!-- ![Snake animation](https://github.com/UrquizaN/UrquizaN/blob/output/github-contribution-grid-snake.svg) -->
 </div>
